@@ -8,8 +8,8 @@ A game based on Space Invaders for players to battle enemy ships using the **pyg
 
 ## Pygame GUI
 ![Starting the game](images/begin.png)
-![Shoot bullet](images/shoot.png)
+![Shoot bullet](images/Shoot.png)
 ![Game Over](images/lost.png)
 
 ### Credits for images
-<a href="">Background and spaceships from XXX</a>
+<a href="https://www.youtube.com/c/TechWithTim">Background and spaceships from Tech With Tim</a>
