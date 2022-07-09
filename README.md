@@ -7,4 +7,9 @@ A game based on Space Invaders for players to battle enemy ships using the **pyg
 * The green bar below the player ship indicates health status
 
 ## Pygame GUI
-![](begin.png)
+![Starting the game](images/begin.png)
+![Shoot bullet](images/shoot.png)
+![Game Over](images/lost.png)
+
+### Credits for images
+<a href="">Background and spaceships from XXX</a>
